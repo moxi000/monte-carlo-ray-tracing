@@ -1,0 +1,29 @@
+﻿  ParticleMC.cpp
+E:\Study\大粒子\test\code\different angle+rutong\MC\Vector.h(97,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Study\大粒子\test\code\different angle+rutong\MC\Vector.h(97,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+E:\Study\大粒子\test\code\different angle+rutong\MC\Vector.h(97,9): message : 缺失的可变参数 3 为格式字符串“%f”所需
+E:\Study\大粒子\test\code\different angle+rutong\MC\Vector.h(101,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Study\大粒子\test\code\different angle+rutong\MC\Vector.h(101,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 2 参数
+E:\Study\大粒子\test\code\different angle+rutong\MC\Vector.h(101,9): message : 缺失的可变参数 3 为格式字符串“%d”所需
+E:\Study\大粒子\test\code\different angle+rutong\MC\Function.h(32,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Study\大粒子\test\code\different angle+rutong\MC\Function.h(48,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Study\大粒子\test\code\different angle+rutong\MC\Function.h(292,14): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\Study\大粒子\test\code\different angle+rutong\MC\Function.h(306,14): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(192,25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(193,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(449,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(458,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(460,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(461,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(44,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(56,14): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(58,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(85,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(95,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\大粒子\test\code\different angle+rutong\MC\ParticleMC.cpp(96,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  2 of 404 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MC.vcxproj -> E:\Study\大粒子\test\code\different angle+rutong\Release\MC.exe

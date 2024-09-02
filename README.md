@@ -17,6 +17,14 @@ This project investigates the radiative properties of large dust aggregate parti
 - **Compiler**: The project is set up using Visual Studio. Ensure you have Visual Studio installed with C++ support.
 - **Libraries**: The code uses OpenMP for parallel processing. Ensure OpenMP support is enabled in your compiler settings.
 
-## Author
 
-**School of Aeronautic Science and Engineering (SASE), Beihang University** Huang Yong, huangy@buaa.edu.cn
+## Authors
+
+- **Liu Xiaochuan**
+- **Tang Yanxia**
+- **Zhu Keyong**
+- **Huang Yong**
+
+School of Aeronautic Science and Engineering, Beihang University (Beijing University of Aeronautics and Astronautics), Beijing, China.
+
+Contact Email: huangy@buaa.edu.cn
